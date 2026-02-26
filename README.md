@@ -1,2 +1,3 @@
 ﻿# Python_scrapy
-# Basic web scraping.
+Basic web scraping.
+
