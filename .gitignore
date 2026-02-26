@@ -206,7 +206,7 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
-myenv/
+scrapyenv/
 
 # Marimo
 marimo/_static/
